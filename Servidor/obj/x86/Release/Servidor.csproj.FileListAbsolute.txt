@@ -1,0 +1,4 @@
+C:\Users\Alumno\Desktop\UPP\Servidor\Servidor\bin\Release\Servidor.exe
+C:\Users\Alumno\Desktop\UPP\Servidor\Servidor\bin\Release\Servidor.pdb
+C:\Users\Alumno\Desktop\UPP\Servidor\Servidor\obj\x86\Release\Servidor.exe
+C:\Users\Alumno\Desktop\UPP\Servidor\Servidor\obj\x86\Release\Servidor.pdb
